@@ -44,3 +44,5 @@ const saveMessages = (name, emailid, msgContent) => {
 const getElementVal = (id) => {
   return document.getElementById(id).value;
 };
+
+//learning
